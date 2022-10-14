@@ -40,7 +40,7 @@ let highRatings = (rating) => {
             matches++;
         }
     }
-
+    console.log("");
     console.log("In total, there are " + matches + " matches");
 }
 
